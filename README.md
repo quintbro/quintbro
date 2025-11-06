@@ -20,4 +20,4 @@ I'm a statistician who loves running experiments and discovering new things thro
 * 🤔 I’m looking for help with **causal inference and bayesian statistics in industry**.
 * 💬 Ask me about **Statistical Analysis in R and Python**.
 * 📫 How to reach me: **j.riley.wilkinson@gmail.com**
-* ⚡ Fun fact: **I love baking! and sometimes I use statistics in my baking 😉**
+* ⚡ Fun fact: **I love baking!** check out the bread-bayesian-analysis repo to see how I use statistics to become a better baker 😉
