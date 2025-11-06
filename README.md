@@ -17,7 +17,7 @@
 I'm a statistician who loves running experiments and discovering new things through data. I'm currently working on "unmasking the mystery of masking tape" and always looking for new challenges.
 
 * 🌱 I’m currently learning how to use **pymc** for bayesian statistics in python.
-* 🤔 I’m looking for help with **causal inference**.
+* 🤔 I’m looking for help with **causal inference and bayesian statistics in industry**.
 * 💬 Ask me about **Statistical Analysis in R and Python**.
-* 📫 How to reach me: **(j.riley.wilkinson@gmail.com)**
-* ⚡ Fun fact: **I love baking!**
+* 📫 How to reach me: **j.riley.wilkinson@gmail.com**
+* ⚡ Fun fact: **I love baking! and sometimes I use statistics in my baking 😉**
