@@ -1,4 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there, I'm Riley! 👋
+</h1>
 
-- 🔭 Check out the CyberWise Texas A&M Data Science Competition Submission in the data-dudes repository
-- :mortar_board: I'm currently doing an MS in Statistical Data Science at Texas A&M
+<h3 align="center">M.S. Statistics Student at Texas A&M based in College Station.</h3>
+
+<p align="center">
+  <em>
+    Budding statistician passionate about bayesian statistics, data science, and ggplot2
+  </em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a statistician who loves running experiments and discovering new things through data. I'm currently working on "unmasking the mystery of masking tape" and always looking for new challenges.
+
+* 🌱 I’m currently learning how to use **pymc** for bayesian statistics in python.
+* 🤔 I’m looking for help with **causal inference**.
+* 💬 Ask me about **Statistical Analysis in R and Python**.
+* 📫 How to reach me: **(j.riley.wilkinson@gmail.com)**
+* ⚡ Fun fact: **I love baking!**
