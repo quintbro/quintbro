@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Budding statistician passionate about bayesian statistics, data science, and ggplot2
+    Budding statistician passionate about bayesian statistics, data science, and gooey chocolate chip cookies
   </em>
 </p>
 
